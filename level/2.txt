@@ -1,0 +1,26 @@
+kunkun 1
+wolf 1
+skeleton 1
+slime 1
+goust 1
+wolf 1
+green_dragon 1
+green_dragon 1
+green_dragon 1
+blue_dragon 1
+blue_dragon 1
+devil 1
+devil 1
+kunkun 2
+wolf 2
+skeleton 2
+slime 2
+goust 2
+wolf 2
+green_dragon 2
+green_dragon 2
+green_dragon 2
+blue_dragon 2
+devil 2
+devil 2
+

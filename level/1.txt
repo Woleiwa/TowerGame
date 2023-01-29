@@ -1,0 +1,9 @@
+wolf 1
+skeleton 1
+wolf 1
+skeleton 1
+green_dragon 1
+green_dragon 1
+devil 1
+blue_dragon 1
+blue_dragon 1

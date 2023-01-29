@@ -1,0 +1,5 @@
+true
+frozen
+false
+20
+80
